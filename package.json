@@ -1,0 +1,17 @@
+{
+  "name": "hapiresttestapi",
+  "version": "1.0.0",
+  "description": "Testowanie hapi js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gchadzynski",
+  "license": "ISC",
+  "dependencies": {
+    "asyncawait": "^1.0.8",
+    "hapi": "^18.1.0",
+    "mssql": "^5.1.0",
+    "mysql": "^2.17.1"
+  }
+}
